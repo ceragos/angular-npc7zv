@@ -1,0 +1,65 @@
+
+@font-face {
+    font-family: "GRAMATIKA-LIGHT";
+    src: url("../fonts/GRAMATIKA/GRAMATIKA-LIGHT.eot");
+    src: url("../fonts/GRAMATIKA/GRAMATIKA-LIGHT.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/GRAMATIKA/GRAMATIKA-LIGHT.woff2") format("woff2"), 
+    url("../fonts/GRAMATIKA/GRAMATIKA-LIGHT.woff") format("woff"),
+    url("../fonts/GRAMATIKA/GRAMATIKA-LIGHT.otf") format("otf"),
+    url("../fonts/GRAMATIKA/GRAMATIKA-LIGHT.ttf") format("truetype"), 
+    url("../fonts/GRAMATIKA/GRAMATIKA-LIGHT.svg#GRAMATIKA-LIGHT") format("svg");
+    font-weight: normal;
+
+}
+
+@font-face {
+    font-family: "GRAMATIKA-ITALIC";
+    src: url("../fonts/GRAMATIKA/GRAMATIKA-ITALIC.eot");
+    src: url("../fonts/GRAMATIKA/GRAMATIKA-ITALIC.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/GRAMATIKA/GRAMATIKA-ITALIC.woff2") format("woff2"), 
+    url("../fonts/GRAMATIKA/GRAMATIKA-ITALIC.woff") format("woff"),
+    url("../fonts/GRAMATIKA/GRAMATIKA-ITALIC.otf") format("otf"),
+    url("../fonts/GRAMATIKA/GRAMATIKA-ITALIC.ttf") format("truetype"), 
+    url("../fonts/GRAMATIKA/GRAMATIKA-ITALIC.svg#GRAMATIKA-ITALIC") format("svg");
+    font-weight: normal;
+
+}
+
+@font-face {
+    font-family: "GRAMATIKA-MEDIUM";
+    src: url("../fonts/GRAMATIKA/GRAMATIKA-MEDIUM.eot");
+    src: url("../fonts/GRAMATIKA/GRAMATIKA-MEDIUM.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/GRAMATIKA/GRAMATIKA-MEDIUM.woff2") format("woff2"), 
+    url("../fonts/GRAMATIKA/GRAMATIKA-MEDIUM.woff") format("woff"),
+    url("../fonts/GRAMATIKA/GRAMATIKA-MEDIUM.otf") format("otf"),
+    url("../fonts/GRAMATIKA/GRAMATIKA-MEDIUM.ttf") format("truetype"), 
+    url("../fonts/GRAMATIKA/GRAMATIKA-MEDIUM.svg#GRAMATIKA-MEDIUM") format("svg");
+    font-weight: normal;
+
+}
+
+@font-face {
+    font-family: "GRAMATIKA-BOLD";
+    src: url("../fonts/GRAMATIKA/GRAMATIKA-BOLD.eot");
+    src: url("../fonts/GRAMATIKA/GRAMATIKA-BOLD.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/GRAMATIKA/GRAMATIKA-BOLD.woff2") format("woff2"), 
+    url("../fonts/GRAMATIKA/GRAMATIKA-BOLD.woff") format("woff"),
+    url("../fonts/GRAMATIKA/GRAMATIKA-BOLD.otf") format("otf"),
+    url("../fonts/GRAMATIKA/GRAMATIKA-BOLD.ttf") format("truetype"), 
+    url("../fonts/GRAMATIKA/GRAMATIKA-BOLD.svg#GRAMATIKA-BOLD") format("svg");
+    font-weight: normal;
+
+}
+
+@font-face {
+    font-family: "GRAMATIKA-BLACK";
+    src: url("../fonts/GRAMATIKA/GRAMATIKA-BLACK.eot");
+    src: url("../fonts/GRAMATIKA/GRAMATIKA-BLACK.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/GRAMATIKA/GRAMATIKA-BLACK.woff2") format("woff2"), 
+    url("../fonts/GRAMATIKA/GRAMATIKA-BLACK.woff") format("woff"),
+    url("../fonts/GRAMATIKA/GRAMATIKA-BLACK.otf") format("otf"),
+    url("../fonts/GRAMATIKA/GRAMATIKA-BLACK.ttf") format("truetype"), 
+    url("../fonts/GRAMATIKA/GRAMATIKA-BLACK.svg#GRAMATIKA-BLACK") format("svg");
+    font-weight: normal;
+
+}
